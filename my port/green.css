@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --mainText:#fff;
+    --secondaryText:#eee;
+
+    --mainColor:#667c4d;
+    --secondaryColor:#445039;
+
+    --borderColor:#161914;
+
+    --themedotColor:#fff;
+
+    --linkColor:#17a2b8;
+
+    --previewbg: #515a48cc;
+    --previewShadow: #2a2f25;
+
+    --btnColor: #263d07;
+}
